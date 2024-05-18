@@ -1,0 +1,1371 @@
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_account_preference_assoc
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table account_preference_assoc
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_account_user_assoc
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table account_user_assoc
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_account_user_permission_assoc
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table account_user_permission_assoc
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_accounts
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table accounts
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_acls
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table acls
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_acls_channel
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table acls_channel
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_ad_category_assoc
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table ad_category_assoc
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_ad_zone_assoc
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table ad_zone_assoc
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_affiliates
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table affiliates
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_affiliates_extra
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table affiliates_extra
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_agency
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table agency
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_application_variable
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table application_variable
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_audit
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table audit
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_banners
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table banners
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_campaigns
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table campaigns
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_campaigns_trackers
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table campaigns_trackers
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_category
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table category
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_channel
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table channel
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_clients
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table clients
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_data_intermediate_ad
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table data_intermediate_ad
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_data_intermediate_ad_connection
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table data_intermediate_ad_connection
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_data_intermediate_ad_variable_value
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table data_intermediate_ad_variable_value
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_data_raw_ad_click
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table data_raw_ad_click
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_data_raw_ad_impression
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table data_raw_ad_impression
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_data_raw_ad_request
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table data_raw_ad_request
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_data_raw_tracker_impression
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table data_raw_tracker_impression
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_data_raw_tracker_variable_value
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table data_raw_tracker_variable_value
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_data_summary_ad_hourly
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table data_summary_ad_hourly
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_data_summary_ad_zone_assoc
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table data_summary_ad_zone_assoc
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_data_summary_channel_daily
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table data_summary_channel_daily
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_data_summary_zone_impression_history
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table data_summary_zone_impression_history
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_images
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table images
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_log_maintenance_forecasting
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table log_maintenance_forecasting
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_log_maintenance_priority
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table log_maintenance_priority
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_log_maintenance_statistics
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table log_maintenance_statistics
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_password_recovery
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table password_recovery
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_placement_zone_assoc
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table placement_zone_assoc
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_preferences
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table preferences
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_session
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table session
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_targetstats
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table targetstats
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_tracker_append
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table tracker_append
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_trackers
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table trackers
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_userlog
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table userlog
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_users
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table users
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_variable_publisher
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table variable_publisher
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_variables
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table variables
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop table rv_zones
+May 10 15:45:09 +0200 OX-663e24e580880 [    error]  Unable to drop the table zones
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  starting _checkPackageContents openXBannerTypes.xml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  expecting definition openXBannerTypes.xml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  detected plugin definition file /plugins/etc/openXBannerTypes.xml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  detected group definition file /plugins/etc/oxHtml/oxHtml.xml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  detected group definition file /plugins/etc/oxText/oxText.xml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _checkOpenXCompatibility for oxHtml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _checkSystemEnvironment for oxHtml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _checkDatabaseEnvironment for oxHtml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _runScript for oxHtml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _checkDependenciesForInstallOrEnable for oxHtml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _checkFiles for oxHtml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _checkNavigationCheckers for oxHtml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _checkMenus for oxHtml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _registerSchema for oxHtml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _registerPreferences for oxHtml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _registerSettings for oxHtml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing disableComponentGroup for oxHtml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _registerPluginVersion for oxHtml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _runScript for oxHtml
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _checkOpenXCompatibility for oxText
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _checkSystemEnvironment for oxText
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _checkDatabaseEnvironment for oxText
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _runScript for oxText
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _checkDependenciesForInstallOrEnable for oxText
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _checkFiles for oxText
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _checkNavigationCheckers for oxText
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _checkMenus for oxText
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _registerSchema for oxText
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _registerPreferences for oxText
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _registerSettings for oxText
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing disableComponentGroup for oxText
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _registerPluginVersion for oxText
+May 10 15:47:35 +0200 OX-plugins-663e2576e726b [     info]  Executing _runScript for oxText
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  starting _checkPackageContents openXDeliveryLimitations.xml
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  expecting definition openXDeliveryLimitations.xml
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  detected group definition file /plugins/etc/Time/Time.xml
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  detected plugin definition file /plugins/etc/openXDeliveryLimitations.xml
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  detected group definition file /plugins/etc/Site/Site.xml
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  detected group definition file /plugins/etc/Client/Client.xml
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  detected group definition file /plugins/etc/Geo/Geo.xml
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkOpenXCompatibility for Client
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkSystemEnvironment for Client
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkDatabaseEnvironment for Client
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _runScript for Client
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkDependenciesForInstallOrEnable for Client
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkFiles for Client
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkNavigationCheckers for Client
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkMenus for Client
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerSchema for Client
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerPreferences for Client
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerSettings for Client
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing disableComponentGroup for Client
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerPluginVersion for Client
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _runScript for Client
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkOpenXCompatibility for Geo
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkSystemEnvironment for Geo
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkDatabaseEnvironment for Geo
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _runScript for Geo
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkDependenciesForInstallOrEnable for Geo
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkFiles for Geo
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkNavigationCheckers for Geo
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkMenus for Geo
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerSchema for Geo
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerPreferences for Geo
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerSettings for Geo
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing disableComponentGroup for Geo
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerPluginVersion for Geo
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _runScript for Geo
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkOpenXCompatibility for Site
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkSystemEnvironment for Site
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkDatabaseEnvironment for Site
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _runScript for Site
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkDependenciesForInstallOrEnable for Site
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkFiles for Site
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkNavigationCheckers for Site
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkMenus for Site
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerSchema for Site
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerPreferences for Site
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerSettings for Site
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing disableComponentGroup for Site
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerPluginVersion for Site
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _runScript for Site
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkOpenXCompatibility for Time
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkSystemEnvironment for Time
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkDatabaseEnvironment for Time
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _runScript for Time
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkDependenciesForInstallOrEnable for Time
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkFiles for Time
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkNavigationCheckers for Time
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _checkMenus for Time
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerSchema for Time
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerPreferences for Time
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerSettings for Time
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing disableComponentGroup for Time
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _registerPluginVersion for Time
+May 10 15:47:37 +0200 OX-plugins-663e2579b2ef4 [     info]  Executing _runScript for Time
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  starting _checkPackageContents openXReports.xml
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  expecting definition openXReports.xml
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  detected plugin definition file /plugins/etc/openXReports.xml
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  detected group definition file /plugins/etc/oxReportsStandard/oxReportsStandard.xml
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  detected group definition file /plugins/etc/oxReportsAdmin/oxReportsAdmin.xml
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _checkOpenXCompatibility for oxReportsStandard
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _checkSystemEnvironment for oxReportsStandard
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _checkDatabaseEnvironment for oxReportsStandard
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _runScript for oxReportsStandard
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _checkDependenciesForInstallOrEnable for oxReportsStandard
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _checkFiles for oxReportsStandard
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _checkNavigationCheckers for oxReportsStandard
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _checkMenus for oxReportsStandard
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _registerSchema for oxReportsStandard
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _registerPreferences for oxReportsStandard
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _registerSettings for oxReportsStandard
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing disableComponentGroup for oxReportsStandard
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _registerPluginVersion for oxReportsStandard
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _runScript for oxReportsStandard
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _checkOpenXCompatibility for oxReportsAdmin
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _checkSystemEnvironment for oxReportsAdmin
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _checkDatabaseEnvironment for oxReportsAdmin
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _runScript for oxReportsAdmin
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _checkDependenciesForInstallOrEnable for oxReportsAdmin
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _checkFiles for oxReportsAdmin
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _checkNavigationCheckers for oxReportsAdmin
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _checkMenus for oxReportsAdmin
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _registerSchema for oxReportsAdmin
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _registerPreferences for oxReportsAdmin
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _registerSettings for oxReportsAdmin
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing disableComponentGroup for oxReportsAdmin
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _registerPluginVersion for oxReportsAdmin
+May 10 15:47:40 +0200 OX-plugins-663e257c8e820 [     info]  Executing _runScript for oxReportsAdmin
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  starting _checkPackageContents openXDeliveryCacheStore.xml
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  expecting definition openXDeliveryCacheStore.xml
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  detected group definition file /plugins/etc/oxMemcached/oxMemcached.xml
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  detected plugin definition file /plugins/etc/openXDeliveryCacheStore.xml
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  detected group definition file /plugins/etc/oxCacheFile/oxCacheFile.xml
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _checkOpenXCompatibility for oxCacheFile
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _checkSystemEnvironment for oxCacheFile
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _checkDatabaseEnvironment for oxCacheFile
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _runScript for oxCacheFile
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _checkDependenciesForInstallOrEnable for oxCacheFile
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _checkFiles for oxCacheFile
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _checkNavigationCheckers for oxCacheFile
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _checkMenus for oxCacheFile
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _registerSchema for oxCacheFile
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _registerPreferences for oxCacheFile
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _registerSettings for oxCacheFile
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing disableComponentGroup for oxCacheFile
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _registerPluginVersion for oxCacheFile
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _runScript for oxCacheFile
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _checkOpenXCompatibility for oxMemcached
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _checkSystemEnvironment for oxMemcached
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _checkDatabaseEnvironment for oxMemcached
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _runScript for oxMemcached
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _checkDependenciesForInstallOrEnable for oxMemcached
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _checkFiles for oxMemcached
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _checkNavigationCheckers for oxMemcached
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _checkMenus for oxMemcached
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _registerSchema for oxMemcached
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _registerPreferences for oxMemcached
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _registerSettings for oxMemcached
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing disableComponentGroup for oxMemcached
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _registerPluginVersion for oxMemcached
+May 10 15:47:43 +0200 OX-plugins-663e257f4e173 [     info]  Executing _runScript for oxMemcached
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  starting _checkPackageContents openXInvocationTags.xml
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  expecting definition openXInvocationTags.xml
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  detected group definition file /plugins/etc/oxInvocationTags/oxInvocationTags.xml
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  detected plugin definition file /plugins/etc/openXInvocationTags.xml
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  Executing _checkOpenXCompatibility for oxInvocationTags
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  Executing _checkSystemEnvironment for oxInvocationTags
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  Executing _checkDatabaseEnvironment for oxInvocationTags
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  Executing _runScript for oxInvocationTags
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  Executing _checkDependenciesForInstallOrEnable for oxInvocationTags
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  Executing _checkFiles for oxInvocationTags
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  Executing _checkNavigationCheckers for oxInvocationTags
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  Executing _checkMenus for oxInvocationTags
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  Executing _registerSchema for oxInvocationTags
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  Executing _registerPreferences for oxInvocationTags
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  Executing _registerSettings for oxInvocationTags
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  Executing disableComponentGroup for oxInvocationTags
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  Executing _registerPluginVersion for oxInvocationTags
+May 10 15:47:46 +0200 OX-plugins-663e25821696c [     info]  Executing _runScript for oxInvocationTags
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  starting _checkPackageContents openXDeliveryLog.xml
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  expecting definition openXDeliveryLog.xml
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  detected group definition file /plugins/etc/oxLogImpression/oxLogImpression.xml
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  detected group definition file /plugins/etc/oxDeliveryDataPrepare/oxDeliveryDataPrepare.xml
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  detected plugin definition file /plugins/etc/openXDeliveryLog.xml
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  detected group definition file /plugins/etc/oxLogConversion/oxLogConversion.xml
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  detected group definition file /plugins/etc/oxLogRequest/oxLogRequest.xml
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  detected group definition file /plugins/etc/oxLogClick/oxLogClick.xml
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkOpenXCompatibility for oxDeliveryDataPrepare
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkSystemEnvironment for oxDeliveryDataPrepare
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkDatabaseEnvironment for oxDeliveryDataPrepare
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _runScript for oxDeliveryDataPrepare
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkDependenciesForInstallOrEnable for oxDeliveryDataPrepare
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkFiles for oxDeliveryDataPrepare
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkNavigationCheckers for oxDeliveryDataPrepare
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkMenus for oxDeliveryDataPrepare
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerSchema for oxDeliveryDataPrepare
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerPreferences for oxDeliveryDataPrepare
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerSettings for oxDeliveryDataPrepare
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing disableComponentGroup for oxDeliveryDataPrepare
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerPluginVersion for oxDeliveryDataPrepare
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _runScript for oxDeliveryDataPrepare
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkOpenXCompatibility for oxLogClick
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkSystemEnvironment for oxLogClick
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkDatabaseEnvironment for oxLogClick
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _runScript for oxLogClick
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogClick
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkFiles for oxLogClick
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkNavigationCheckers for oxLogClick
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkMenus for oxLogClick
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerSchema for oxLogClick
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerPreferences for oxLogClick
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerSettings for oxLogClick
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing disableComponentGroup for oxLogClick
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerPluginVersion for oxLogClick
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _runScript for oxLogClick
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkOpenXCompatibility for oxLogConversion
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkSystemEnvironment for oxLogConversion
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkDatabaseEnvironment for oxLogConversion
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _runScript for oxLogConversion
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogConversion
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkFiles for oxLogConversion
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkNavigationCheckers for oxLogConversion
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkMenus for oxLogConversion
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerSchema for oxLogConversion
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerPreferences for oxLogConversion
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerSettings for oxLogConversion
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing disableComponentGroup for oxLogConversion
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerPluginVersion for oxLogConversion
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _runScript for oxLogConversion
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkOpenXCompatibility for oxLogImpression
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkSystemEnvironment for oxLogImpression
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkDatabaseEnvironment for oxLogImpression
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _runScript for oxLogImpression
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogImpression
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkFiles for oxLogImpression
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkNavigationCheckers for oxLogImpression
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkMenus for oxLogImpression
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerSchema for oxLogImpression
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerPreferences for oxLogImpression
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerSettings for oxLogImpression
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing disableComponentGroup for oxLogImpression
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerPluginVersion for oxLogImpression
+May 10 15:47:48 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _runScript for oxLogImpression
+May 10 15:47:49 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkOpenXCompatibility for oxLogRequest
+May 10 15:47:49 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkSystemEnvironment for oxLogRequest
+May 10 15:47:49 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkDatabaseEnvironment for oxLogRequest
+May 10 15:47:49 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _runScript for oxLogRequest
+May 10 15:47:49 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogRequest
+May 10 15:47:49 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkFiles for oxLogRequest
+May 10 15:47:49 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkNavigationCheckers for oxLogRequest
+May 10 15:47:49 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _checkMenus for oxLogRequest
+May 10 15:47:49 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerSchema for oxLogRequest
+May 10 15:47:49 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerPreferences for oxLogRequest
+May 10 15:47:49 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerSettings for oxLogRequest
+May 10 15:47:49 +0200 OX-plugins-663e2584c5f5a [     info]  Executing disableComponentGroup for oxLogRequest
+May 10 15:47:49 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _registerPluginVersion for oxLogRequest
+May 10 15:47:49 +0200 OX-plugins-663e2584c5f5a [     info]  Executing _runScript for oxLogRequest
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  starting _checkPackageContents openXVideoAds.xml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  expecting definition openXVideoAds.xml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  detected group definition file /plugins/etc/videoReport/videoReport.xml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  detected plugin definition file /plugins/etc/openXVideoAds.xml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  detected group definition file /plugins/etc/oxLogVast/oxLogVast.xml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  detected group definition file /plugins/etc/vastServeVideoPlayer/vastServeVideoPlayer.xml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  detected group definition file /plugins/etc/vastOverlayBannerTypeHtml/vastOverlayBannerTypeHtml.xml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  detected group definition file /plugins/etc/vastInlineBannerTypeHtml/vastInlineBannerTypeHtml.xml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkOpenXCompatibility for vastInlineBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkSystemEnvironment for vastInlineBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkDatabaseEnvironment for vastInlineBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _runScript for vastInlineBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkDependenciesForInstallOrEnable for vastInlineBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkFiles for vastInlineBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkNavigationCheckers for vastInlineBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkMenus for vastInlineBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerSchema for vastInlineBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerPreferences for vastInlineBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerSettings for vastInlineBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing disableComponentGroup for vastInlineBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerPluginVersion for vastInlineBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _runScript for vastInlineBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkOpenXCompatibility for vastOverlayBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkSystemEnvironment for vastOverlayBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkDatabaseEnvironment for vastOverlayBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _runScript for vastOverlayBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkDependenciesForInstallOrEnable for vastOverlayBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkFiles for vastOverlayBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkNavigationCheckers for vastOverlayBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkMenus for vastOverlayBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerSchema for vastOverlayBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerPreferences for vastOverlayBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerSettings for vastOverlayBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing disableComponentGroup for vastOverlayBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerPluginVersion for vastOverlayBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _runScript for vastOverlayBannerTypeHtml
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkOpenXCompatibility for oxLogVast
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkSystemEnvironment for oxLogVast
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkDatabaseEnvironment for oxLogVast
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _runScript for oxLogVast
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkDependenciesForInstallOrEnable for oxLogVast
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkFiles for oxLogVast
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkNavigationCheckers for oxLogVast
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkMenus for oxLogVast
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerSchema for oxLogVast
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerPreferences for oxLogVast
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerSettings for oxLogVast
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing disableComponentGroup for oxLogVast
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerPluginVersion for oxLogVast
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _runScript for oxLogVast
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkOpenXCompatibility for vastServeVideoPlayer
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkSystemEnvironment for vastServeVideoPlayer
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkDatabaseEnvironment for vastServeVideoPlayer
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _runScript for vastServeVideoPlayer
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkDependenciesForInstallOrEnable for vastServeVideoPlayer
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkFiles for vastServeVideoPlayer
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkNavigationCheckers for vastServeVideoPlayer
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkMenus for vastServeVideoPlayer
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerSchema for vastServeVideoPlayer
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerPreferences for vastServeVideoPlayer
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerSettings for vastServeVideoPlayer
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing disableComponentGroup for vastServeVideoPlayer
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerPluginVersion for vastServeVideoPlayer
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _runScript for vastServeVideoPlayer
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkOpenXCompatibility for videoReport
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkSystemEnvironment for videoReport
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkDatabaseEnvironment for videoReport
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _runScript for videoReport
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkDependenciesForInstallOrEnable for videoReport
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkFiles for videoReport
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkNavigationCheckers for videoReport
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _checkMenus for videoReport
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerSchema for videoReport
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerPreferences for videoReport
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerSettings for videoReport
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing disableComponentGroup for videoReport
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _registerPluginVersion for videoReport
+May 10 15:47:51 +0200 OX-plugins-663e258797352 [     info]  Executing _runScript for videoReport
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  starting _checkPackageContents reviveMaxMindGeoIP2.xml
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  expecting definition reviveMaxMindGeoIP2.xml
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  detected plugin definition file /plugins/etc/reviveMaxMindGeoIP2.xml
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  detected group definition file /plugins/etc/rvMaxMindGeoIP2Maintenance/rvMaxMindGeoIP2Maintenance.xml
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  detected group definition file /plugins/etc/rvMaxMindGeoIP2/rvMaxMindGeoIP2.xml
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _checkOpenXCompatibility for rvMaxMindGeoIP2
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _checkSystemEnvironment for rvMaxMindGeoIP2
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _checkDatabaseEnvironment for rvMaxMindGeoIP2
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _runScript for rvMaxMindGeoIP2
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _checkDependenciesForInstallOrEnable for rvMaxMindGeoIP2
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _checkFiles for rvMaxMindGeoIP2
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _checkNavigationCheckers for rvMaxMindGeoIP2
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _checkMenus for rvMaxMindGeoIP2
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _registerSchema for rvMaxMindGeoIP2
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _registerPreferences for rvMaxMindGeoIP2
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _registerSettings for rvMaxMindGeoIP2
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing disableComponentGroup for rvMaxMindGeoIP2
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _registerPluginVersion for rvMaxMindGeoIP2
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _runScript for rvMaxMindGeoIP2
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _checkOpenXCompatibility for rvMaxMindGeoIP2Maintenance
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _checkSystemEnvironment for rvMaxMindGeoIP2Maintenance
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _checkDatabaseEnvironment for rvMaxMindGeoIP2Maintenance
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _runScript for rvMaxMindGeoIP2Maintenance
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _checkDependenciesForInstallOrEnable for rvMaxMindGeoIP2Maintenance
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _checkFiles for rvMaxMindGeoIP2Maintenance
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _checkNavigationCheckers for rvMaxMindGeoIP2Maintenance
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _checkMenus for rvMaxMindGeoIP2Maintenance
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _registerSchema for rvMaxMindGeoIP2Maintenance
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _registerPreferences for rvMaxMindGeoIP2Maintenance
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _registerSettings for rvMaxMindGeoIP2Maintenance
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing disableComponentGroup for rvMaxMindGeoIP2Maintenance
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _registerPluginVersion for rvMaxMindGeoIP2Maintenance
+May 10 15:47:54 +0200 OX-plugins-663e258a6b28a [     info]  Executing _runScript for rvMaxMindGeoIP2Maintenance
+May 10 15:47:55 +0200 OX-plugins-663e258a6b28a [  warning]  An error occurred trying to download the latest GeoIP2 database: Client error: `GET https://download.maxmind.com/geoip/databases/GeoLite2-City/download?suffix=tar.gz.md5` resulted in a `401 Unauthorized` response:
+An account ID and license key are required to use this service.
+
+
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  starting _checkPackageContents apVideo.xml
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  expecting definition apVideo.xml
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  detected group definition file /plugins/etc/apVideo/apVideo.xml
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  detected group definition file /plugins/etc/apVideoUI/apVideoUI.xml
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  detected plugin definition file /plugins/etc/apVideo.xml
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _checkOpenXCompatibility for apVideo
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _checkSystemEnvironment for apVideo
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _checkDatabaseEnvironment for apVideo
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _runScript for apVideo
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _checkDependenciesForInstallOrEnable for apVideo
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _checkFiles for apVideo
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _checkNavigationCheckers for apVideo
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _checkMenus for apVideo
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _registerSchema for apVideo
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _registerPreferences for apVideo
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _registerSettings for apVideo
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing disableComponentGroup for apVideo
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _registerPluginVersion for apVideo
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _runScript for apVideo
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _checkOpenXCompatibility for apVideoUI
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _checkSystemEnvironment for apVideoUI
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _checkDatabaseEnvironment for apVideoUI
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _runScript for apVideoUI
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _checkDependenciesForInstallOrEnable for apVideoUI
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _checkFiles for apVideoUI
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _checkNavigationCheckers for apVideoUI
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _checkMenus for apVideoUI
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _registerSchema for apVideoUI
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _registerPreferences for apVideoUI
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _registerSettings for apVideoUI
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing disableComponentGroup for apVideoUI
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _registerPluginVersion for apVideoUI
+May 10 15:47:57 +0200 OX-plugins-663e258dc5ab2 [     info]  Executing _runScript for apVideoUI
+ 
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]  Running Maintenance Priority Engine
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 13:00:00 to 2024-05-14 13:59:59
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 13:00:00 to 2024-05-14 13:59:59
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]  - Selecting All Managers
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]  - Selecting Managers with ECPM priority campaigns running
+May 14 14:04:07 +0200 OX-maintenance-664353373e761 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 14:04:08 +0200 OX-maintenance-664353373e761 [     info]  Maintenance Priority Engine Completed (Started at 2024-05-14 14:04:07 WAT)
+May 14 14:13:20 +0200 OX-6643556044176 [     info]  Running Automatic Maintenance Task
+ 
+ 
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Running Maintenance Engine
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Running Maintenance Statistics Engine
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  MaxMind GeoIP2 license key missing, skipping auto-update
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task begin: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  - Maintenance statistics will NOT be run
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task complete: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task begin: OX_Maintenance_Statistics_Task_MigrateBucketData
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task complete: OX_Maintenance_Statistics_Task_MigrateBucketData
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task begin: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task complete: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageConversions
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageConversions
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task begin: OX_Maintenance_Statistics_Task_SummariseFinal
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task complete: OX_Maintenance_Statistics_Task_SummariseFinal
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task begin: OX_Maintenance_Statistics_Task_LogCompletion
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task complete: OX_Maintenance_Statistics_Task_LogCompletion
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageCampaigns
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageCampaigns
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Maintenance Statistics Engine Completed (Started at 2024-05-14 12:13:20 UTC)
+May 14 14:13:20 +0200 OX-6643556044176 [     info]  Running Midnight Maintenance Tasks
+May 14 14:13:20 +0200 OX-6643556044176 [     info]  Begin pruning old records from data_summary_ad_zone_assoc
+May 14 14:13:20 +0200 OX-6643556044176 [     info]  Finished pruning old records from data_summary_ad_zone_assoc: 0 records deleted
+May 14 14:13:20 +0200 OX-6643556044176 [     info]  Begin pruning records for expired inactive campaigns from data_summary_ad_zone_assoc
+May 14 14:13:20 +0200 OX-6643556044176 [     info]  Finished pruning expired inactive campaigns from data_summary_ad_zone_assoc: 0 records deleted
+May 14 14:13:20 +0200 OX-6643556044176 [     info]  Begin pruning records for completed inactive campaigns from data_summary_ad_zone_assoc
+May 14 14:13:20 +0200 OX-6643556044176 [     info]  Table rv_data_summary_ad_zone_assoc overhead (number of allocated but unused bytes) = 0
+May 14 14:13:20 +0200 OX-6643556044176 [     info]  Midnight Maintenance Tasks Completed
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Running Maintenance Priority Engine
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 12:00:00 to 2024-05-14 12:59:59
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 14:13:20 +0200 OX-maintenance-6643556044176 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 12:00:00 to 2024-05-14 12:59:59
+May 14 14:13:21 +0200 OX-maintenance-6643556044176 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 14:13:21 +0200 OX-maintenance-6643556044176 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 14:13:21 +0200 OX-maintenance-6643556044176 [     info]  - Selecting All Managers
+May 14 14:13:21 +0200 OX-maintenance-6643556044176 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+May 14 14:13:21 +0200 OX-maintenance-6643556044176 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+May 14 14:13:21 +0200 OX-maintenance-6643556044176 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+May 14 14:13:21 +0200 OX-maintenance-6643556044176 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+May 14 14:13:21 +0200 OX-maintenance-6643556044176 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 14:13:21 +0200 OX-maintenance-6643556044176 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 14:13:21 +0200 OX-maintenance-6643556044176 [     info]  - Selecting Managers with ECPM priority campaigns running
+May 14 14:13:21 +0200 OX-maintenance-6643556044176 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 14:13:21 +0200 OX-maintenance-6643556044176 [     info]  Maintenance Priority Engine Completed (Started at 2024-05-14 12:13:20 UTC)
+May 14 14:13:21 +0200 OX-maintenance-6643556044176 [     info]  Maintenance Engine Completed (Started at 2024-05-14 12:13:20 UTC, taking 00:00:01)
+May 14 14:13:21 +0200 OX-6643556044176 [     info]  Delaying Revive Adserver sync process by 14 seconds.
+May 14 14:13:35 +0200 OX-6643556044176 [     info]  Generating a new platform_hash for the installation
+May 14 14:13:39 +0200 OX-6643556044176 [     info]  Sync: No update
+May 14 14:13:39 +0200 OX-6643556044176 [     info]  Finished Revive Adserver Sync process.
+May 14 14:13:39 +0200 OX-6643556044176 [     info]  Automatic Maintenance Task Completed
+ 
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  Running Maintenance Priority Engine
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 13:00:00 to 2024-05-14 13:59:59
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 13:00:00 to 2024-05-14 13:59:59
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  - Selecting All Managers
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  - Selecting Managers with ECPM priority campaigns running
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 14:53:29 +0200 OX-maintenance-66435ec948dd6 [     info]  Maintenance Priority Engine Completed (Started at 2024-05-14 14:53:29 WAT)
+ 
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  Running Maintenance Priority Engine
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 14:00:00 to 2024-05-14 14:59:59
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 14:00:00 to 2024-05-14 14:59:59
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  - Selecting All Managers
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  - Selecting Managers with ECPM priority campaigns running
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 15:06:40 +0200 OX-maintenance-664361e007b47 [     info]  Maintenance Priority Engine Completed (Started at 2024-05-14 15:06:40 WAT)
+ 
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  Running Maintenance Priority Engine
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 14:00:00 to 2024-05-14 14:59:59
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 14:00:00 to 2024-05-14 14:59:59
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  - Selecting All Managers
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]    - Selecting active campaigns with priority = '9' for manager 1
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]    - Selecting active campaigns with priority = '8' for manager 1
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]    - Selecting active campaigns with priority = '7' for manager 1
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]    - Selecting active campaigns with priority = '6' for manager 1
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  - Selecting Managers with ECPM priority campaigns running
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 15:12:16 +0200 OX-maintenance-6643633037ffd [     info]  Maintenance Priority Engine Completed (Started at 2024-05-14 15:12:16 WAT)
+May 14 15:14:49 +0200 OX-664363c92f0da [     info]  Running Automatic Maintenance Task
+May 14 15:14:49 +0200 OX-664363c93c5f4 [     info]  Automatic Maintenance Task not run: could not acquire lock
+ 
+ 
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Running Maintenance Engine
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Running Maintenance Statistics Engine
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  MaxMind GeoIP2 license key missing, skipping auto-update
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task begin: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  - Maintenance statistics will be run
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  - The intermediate table statistics will be updated
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  - The final table statistics will be updated
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task complete: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task begin: OX_Maintenance_Statistics_Task_MigrateBucketData
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]        2024-05-14 12:00:00 UTC and 2024-05-14 12:59:59 UTC
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]        2024-05-14 12:00:00 UTC and 2024-05-14 12:59:59 UTC
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task complete: OX_Maintenance_Statistics_Task_MigrateBucketData
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task begin: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task complete: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageConversions
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageConversions
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task begin: OX_Maintenance_Statistics_Task_SummariseFinal
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task complete: OX_Maintenance_Statistics_Task_SummariseFinal
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task begin: OX_Maintenance_Statistics_Task_LogCompletion
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task complete: OX_Maintenance_Statistics_Task_LogCompletion
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageCampaigns
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  - Managing (activating/deactivating) campaigns
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageCampaigns
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Maintenance Statistics Engine Completed (Started at 2024-05-14 13:14:49 UTC)
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Running Maintenance Priority Engine
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 13:00:00 to 2024-05-14 13:59:59
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 15:14:49 +0200 OX-maintenance-664363c92f0da [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 13:00:00 to 2024-05-14 13:59:59
+May 14 15:14:50 +0200 OX-maintenance-664363c92f0da [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 15:14:50 +0200 OX-maintenance-664363c92f0da [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 15:14:50 +0200 OX-maintenance-664363c92f0da [     info]  - Selecting All Managers
+May 14 15:14:50 +0200 OX-maintenance-664363c92f0da [     info]    - Selecting active campaigns with priority = '9' for manager 1
+May 14 15:14:50 +0200 OX-maintenance-664363c92f0da [     info]    - Selecting active campaigns with priority = '8' for manager 1
+May 14 15:14:50 +0200 OX-maintenance-664363c92f0da [     info]    - Selecting active campaigns with priority = '7' for manager 1
+May 14 15:14:50 +0200 OX-maintenance-664363c92f0da [     info]    - Selecting active campaigns with priority = '6' for manager 1
+May 14 15:14:50 +0200 OX-maintenance-664363c92f0da [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 15:14:50 +0200 OX-maintenance-664363c92f0da [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 15:14:50 +0200 OX-maintenance-664363c92f0da [     info]  - Selecting Managers with ECPM priority campaigns running
+May 14 15:14:50 +0200 OX-maintenance-664363c92f0da [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 15:14:50 +0200 OX-maintenance-664363c92f0da [     info]  Maintenance Priority Engine Completed (Started at 2024-05-14 13:14:49 UTC)
+May 14 15:14:50 +0200 OX-maintenance-664363c92f0da [     info]  Maintenance Engine Completed (Started at 2024-05-14 13:14:49 UTC, taking 00:00:01)
+May 14 15:14:50 +0200 OX-664363c92f0da [     info]  Automatic Maintenance Task Completed
+ 
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  Running Maintenance Priority Engine
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 14:00:00 to 2024-05-14 14:59:59
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 14:00:00 to 2024-05-14 14:59:59
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  - Selecting All Managers
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]    - Selecting active campaigns with priority = '9' for manager 1
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]    - Selecting active campaigns with priority = '8' for manager 1
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]    - Selecting active campaigns with priority = '7' for manager 1
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]    - Selecting active campaigns with priority = '6' for manager 1
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  - Selecting Managers with ECPM priority campaigns running
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 15:17:03 +0200 OX-maintenance-6643644f6aaaf [     info]  Maintenance Priority Engine Completed (Started at 2024-05-14 15:17:03 WAT)
+ 
+May 14 15:33:54 +0200 OX-maintenance-66436842638f1 [     info]  Running Maintenance Priority Engine
+May 14 15:33:54 +0200 OX-maintenance-66436842638f1 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [    error]        - Ad ID 2 has no linked zones, will skip...
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  Inserted 1 rows in the table tmp_ad_required_impression
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 14:00:00 to 2024-05-14 14:59:59
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  Inserted 3 rows in the table tmp_ad_zone_impression
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 14:00:00 to 2024-05-14 14:59:59
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  Inserted 3 rows in the table rv_data_summary_ad_zone_assoc
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  - Selecting All Managers
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  - Selecting Managers with ECPM priority campaigns running
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 15:33:55 +0200 OX-maintenance-66436842638f1 [     info]  Maintenance Priority Engine Completed (Started at 2024-05-14 15:33:54 WAT)
+ 
+May 14 15:35:46 +0200 OX-maintenance-664368b271c8c [     info]  Running Maintenance Priority Engine
+May 14 15:35:46 +0200 OX-maintenance-664368b271c8c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [    error]        - Ad ID 2 has no linked zones, will skip...
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  Inserted 1 rows in the table tmp_ad_required_impression
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 14:00:00 to 2024-05-14 14:59:59
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  Inserted 3 rows in the table tmp_ad_zone_impression
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 14:00:00 to 2024-05-14 14:59:59
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  Inserted 3 rows in the table rv_data_summary_ad_zone_assoc
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  - Selecting All Managers
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]    - Selecting active campaigns with priority = '9' for manager 1
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]    - Selecting active campaigns with priority = '8' for manager 1
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]    - Selecting active campaigns with priority = '7' for manager 1
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]    - Selecting active campaigns with priority = '6' for manager 1
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  - Selecting Managers with ECPM priority campaigns running
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 15:35:47 +0200 OX-maintenance-664368b271c8c [     info]  Maintenance Priority Engine Completed (Started at 2024-05-14 15:35:46 WAT)
+May 14 16:07:44 +0200 OX-6643702d16900 [     info]  Sync: No update
+May 14 16:11:30 +0200 OX-664371119bfab [     info]  Sync: No update
+May 14 16:14:55 +0200 OX-664371df4b7d6 [     info]  Running Automatic Maintenance Task
+May 14 16:14:55 +0200 OX-664371df6439f [     info]  Automatic Maintenance Task not run: could not acquire lock
+ 
+ 
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Running Maintenance Engine
+May 14 16:14:55 +0200 OX-664371df75dcc [     info]  Automatic Maintenance Task not run: could not acquire lock
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Running Maintenance Statistics Engine
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  MaxMind GeoIP2 license key missing, skipping auto-update
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Task begin: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  - Maintenance statistics will be run
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  - The intermediate table statistics will be updated
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  - The final table statistics will be updated
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Task complete: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Task begin: OX_Maintenance_Statistics_Task_MigrateBucketData
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]        2024-05-14 13:00:00 UTC and 2024-05-14 13:59:59 UTC
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]        2024-05-14 13:00:00 UTC and 2024-05-14 13:59:59 UTC
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Task complete: OX_Maintenance_Statistics_Task_MigrateBucketData
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Task begin: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Task complete: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageConversions
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageConversions
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Task begin: OX_Maintenance_Statistics_Task_SummariseFinal
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Task complete: OX_Maintenance_Statistics_Task_SummariseFinal
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Task begin: OX_Maintenance_Statistics_Task_LogCompletion
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Task complete: OX_Maintenance_Statistics_Task_LogCompletion
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageCampaigns
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  - Managing (activating/deactivating) campaigns
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageCampaigns
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Maintenance Statistics Engine Completed (Started at 2024-05-14 14:14:55 UTC)
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Running Maintenance Priority Engine
+May 14 16:14:55 +0200 OX-maintenance-664371df4b7d6 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [    error]        - Ad ID 2 has no linked zones, will skip...
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Inserted 1 rows in the table tmp_ad_required_impression
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 14:00:00 to 2024-05-14 14:59:59
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Inserted 3 rows in the table tmp_ad_zone_impression
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-14 14:00:00 to 2024-05-14 14:59:59
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Inserted 3 rows in the table rv_data_summary_ad_zone_assoc
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  - Selecting All Managers
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  - Selecting Managers with ECPM priority campaigns running
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Maintenance Priority Engine Completed (Started at 2024-05-14 14:14:55 UTC)
+May 14 16:14:56 +0200 OX-maintenance-664371df4b7d6 [     info]  Maintenance Engine Completed (Started at 2024-05-14 14:14:55 UTC, taking 00:00:01)
+May 14 16:14:56 +0200 OX-664371df4b7d6 [     info]  Automatic Maintenance Task Completed
+May 17 13:24:41 +0200 OX-66473e76f1e02 [     info]  Sync: No update
+May 17 17:16:19 +0200 OX-664774c321c61 [     info]  Running Automatic Maintenance Task
+May 17 17:16:19 +0200 OX-664774c33c9a6 [     info]  Automatic Maintenance Task not run: could not acquire lock
+May 17 17:16:19 +0200 OX-664774c359c89 [     info]  Automatic Maintenance Task not run: could not acquire lock
+ 
+ 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]  Running Maintenance Engine
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]  Running Maintenance Statistics Engine
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]  MaxMind GeoIP2 license key missing, skipping auto-update
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]  Task begin: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]  - Maintenance statistics will be run
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]  - The intermediate table statistics will be updated
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]  - The final table statistics will be updated
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]  Task complete: OX_Maintenance_Statistics_Task_SetUpdateRequirements
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]  Task begin: OX_Maintenance_Statistics_Task_MigrateBucketData
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 14:00:00 UTC and 2024-05-14 14:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 15:00:00 UTC and 2024-05-14 15:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 16:00:00 UTC and 2024-05-14 16:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 17:00:00 UTC and 2024-05-14 17:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 18:00:00 UTC and 2024-05-14 18:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 19:00:00 UTC and 2024-05-14 19:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 20:00:00 UTC and 2024-05-14 20:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 21:00:00 UTC and 2024-05-14 21:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 22:00:00 UTC and 2024-05-14 22:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 23:00:00 UTC and 2024-05-14 23:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 00:00:00 UTC and 2024-05-15 00:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 01:00:00 UTC and 2024-05-15 01:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 02:00:00 UTC and 2024-05-15 02:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 03:00:00 UTC and 2024-05-15 03:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 04:00:00 UTC and 2024-05-15 04:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 05:00:00 UTC and 2024-05-15 05:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 06:00:00 UTC and 2024-05-15 06:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 07:00:00 UTC and 2024-05-15 07:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 08:00:00 UTC and 2024-05-15 08:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 09:00:00 UTC and 2024-05-15 09:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 10:00:00 UTC and 2024-05-15 10:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 11:00:00 UTC and 2024-05-15 11:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 12:00:00 UTC and 2024-05-15 12:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 13:00:00 UTC and 2024-05-15 13:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 14:00:00 UTC and 2024-05-15 14:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 15:00:00 UTC and 2024-05-15 15:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 16:00:00 UTC and 2024-05-15 16:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 17:00:00 UTC and 2024-05-15 17:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 18:00:00 UTC and 2024-05-15 18:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 19:00:00 UTC and 2024-05-15 19:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 20:00:00 UTC and 2024-05-15 20:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 21:00:00 UTC and 2024-05-15 21:59:59 UTC
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:20 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 22:00:00 UTC and 2024-05-15 22:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 23:00:00 UTC and 2024-05-15 23:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 00:00:00 UTC and 2024-05-16 00:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 01:00:00 UTC and 2024-05-16 01:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 02:00:00 UTC and 2024-05-16 02:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 03:00:00 UTC and 2024-05-16 03:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 04:00:00 UTC and 2024-05-16 04:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 05:00:00 UTC and 2024-05-16 05:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 06:00:00 UTC and 2024-05-16 06:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 07:00:00 UTC and 2024-05-16 07:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 08:00:00 UTC and 2024-05-16 08:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 09:00:00 UTC and 2024-05-16 09:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 10:00:00 UTC and 2024-05-16 10:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 11:00:00 UTC and 2024-05-16 11:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 12:00:00 UTC and 2024-05-16 12:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 13:00:00 UTC and 2024-05-16 13:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 14:00:00 UTC and 2024-05-16 14:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 15:00:00 UTC and 2024-05-16 15:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 16:00:00 UTC and 2024-05-16 16:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 17:00:00 UTC and 2024-05-16 17:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 18:00:00 UTC and 2024-05-16 18:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 19:00:00 UTC and 2024-05-16 19:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 20:00:00 UTC and 2024-05-16 20:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 21:00:00 UTC and 2024-05-16 21:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 22:00:00 UTC and 2024-05-16 22:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 23:00:00 UTC and 2024-05-16 23:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 00:00:00 UTC and 2024-05-17 00:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 01:00:00 UTC and 2024-05-17 01:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 02:00:00 UTC and 2024-05-17 02:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 03:00:00 UTC and 2024-05-17 03:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 04:00:00 UTC and 2024-05-17 04:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 05:00:00 UTC and 2024-05-17 05:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 06:00:00 UTC and 2024-05-17 06:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 07:00:00 UTC and 2024-05-17 07:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 08:00:00 UTC and 2024-05-17 08:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 09:00:00 UTC and 2024-05-17 09:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 10:00:00 UTC and 2024-05-17 10:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 11:00:00 UTC and 2024-05-17 11:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 12:00:00 UTC and 2024-05-17 12:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 13:00:00 UTC and 2024-05-17 13:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 14:00:00 UTC and 2024-05-17 14:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 14:00:00 UTC and 2024-05-14 14:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 15:00:00 UTC and 2024-05-14 15:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 16:00:00 UTC and 2024-05-14 16:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 17:00:00 UTC and 2024-05-14 17:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 18:00:00 UTC and 2024-05-14 18:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 19:00:00 UTC and 2024-05-14 19:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 20:00:00 UTC and 2024-05-14 20:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 21:00:00 UTC and 2024-05-14 21:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 22:00:00 UTC and 2024-05-14 22:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-14 23:00:00 UTC and 2024-05-14 23:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 00:00:00 UTC and 2024-05-15 00:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 01:00:00 UTC and 2024-05-15 01:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 02:00:00 UTC and 2024-05-15 02:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 03:00:00 UTC and 2024-05-15 03:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 04:00:00 UTC and 2024-05-15 04:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 05:00:00 UTC and 2024-05-15 05:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 06:00:00 UTC and 2024-05-15 06:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 07:00:00 UTC and 2024-05-15 07:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 08:00:00 UTC and 2024-05-15 08:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 09:00:00 UTC and 2024-05-15 09:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 10:00:00 UTC and 2024-05-15 10:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 11:00:00 UTC and 2024-05-15 11:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 12:00:00 UTC and 2024-05-15 12:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 13:00:00 UTC and 2024-05-15 13:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 14:00:00 UTC and 2024-05-15 14:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 15:00:00 UTC and 2024-05-15 15:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 16:00:00 UTC and 2024-05-15 16:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 17:00:00 UTC and 2024-05-15 17:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 18:00:00 UTC and 2024-05-15 18:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 19:00:00 UTC and 2024-05-15 19:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 20:00:00 UTC and 2024-05-15 20:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 21:00:00 UTC and 2024-05-15 21:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 22:00:00 UTC and 2024-05-15 22:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-15 23:00:00 UTC and 2024-05-15 23:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 00:00:00 UTC and 2024-05-16 00:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 01:00:00 UTC and 2024-05-16 01:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 02:00:00 UTC and 2024-05-16 02:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 03:00:00 UTC and 2024-05-16 03:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 04:00:00 UTC and 2024-05-16 04:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 05:00:00 UTC and 2024-05-16 05:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 06:00:00 UTC and 2024-05-16 06:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 07:00:00 UTC and 2024-05-16 07:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 08:00:00 UTC and 2024-05-16 08:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 09:00:00 UTC and 2024-05-16 09:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 10:00:00 UTC and 2024-05-16 10:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 11:00:00 UTC and 2024-05-16 11:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 12:00:00 UTC and 2024-05-16 12:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 13:00:00 UTC and 2024-05-16 13:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 14:00:00 UTC and 2024-05-16 14:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 15:00:00 UTC and 2024-05-16 15:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 16:00:00 UTC and 2024-05-16 16:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 17:00:00 UTC and 2024-05-16 17:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 18:00:00 UTC and 2024-05-16 18:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 19:00:00 UTC and 2024-05-16 19:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 20:00:00 UTC and 2024-05-16 20:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 21:00:00 UTC and 2024-05-16 21:59:59 UTC
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:21 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 22:00:00 UTC and 2024-05-16 22:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-16 23:00:00 UTC and 2024-05-16 23:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 00:00:00 UTC and 2024-05-17 00:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 01:00:00 UTC and 2024-05-17 01:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 02:00:00 UTC and 2024-05-17 02:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 03:00:00 UTC and 2024-05-17 03:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 04:00:00 UTC and 2024-05-17 04:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 05:00:00 UTC and 2024-05-17 05:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 06:00:00 UTC and 2024-05-17 06:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 07:00:00 UTC and 2024-05-17 07:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 08:00:00 UTC and 2024-05-17 08:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 09:00:00 UTC and 2024-05-17 09:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 10:00:00 UTC and 2024-05-17 10:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 11:00:00 UTC and 2024-05-17 11:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 12:00:00 UTC and 2024-05-17 12:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 13:00:00 UTC and 2024-05-17 13:59:59 UTC
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - The rv_data_bkt_a_var table is a raw data table. Data logged in real-time, not operation intervals.
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]      - Accordingly, pruning of the rv_data_bkt_a_var table will be performed based on data that has a logged date between 
+May 17 17:16:22 +0200 OX-maintenance-664774c321c61 [     info]        2024-05-17 14:00:00 UTC and 2024-05-17 14:59:59 UTC
+May 17 17:16:23 +0200 OX-maintenance-664774c321c61 [     info]  Task complete: OX_Maintenance_Statistics_Task_MigrateBucketData
+May 17 17:16:23 +0200 OX-maintenance-664774c321c61 [     info]  Task begin: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+May 17 17:16:23 +0200 OX-maintenance-664774c321c61 [     info]  Task complete: OX_Maintenance_Statistics_Task_DeDuplicateConversions
+May 17 17:16:23 +0200 OX-maintenance-664774c321c61 [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageConversions
+May 17 17:16:23 +0200 OX-maintenance-664774c321c61 [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageConversions
+May 17 17:16:23 +0200 OX-maintenance-664774c321c61 [     info]  Task begin: OX_Maintenance_Statistics_Task_SummariseFinal
+May 17 17:16:23 +0200 OX-maintenance-664774c321c61 [     info]  Task complete: OX_Maintenance_Statistics_Task_SummariseFinal
+May 17 17:16:23 +0200 OX-maintenance-664774c321c61 [     info]  Task begin: OX_Maintenance_Statistics_Task_LogCompletion
+May 17 17:16:23 +0200 OX-maintenance-664774c321c61 [     info]  Task complete: OX_Maintenance_Statistics_Task_LogCompletion
+May 17 17:16:23 +0200 OX-maintenance-664774c321c61 [     info]  Task begin: OX_Maintenance_Statistics_Task_ManageCampaigns
+May 17 17:16:23 +0200 OX-maintenance-664774c321c61 [     info]  - Managing (activating/deactivating) campaigns
+May 17 17:16:23 +0200 OX-maintenance-664774c321c61 [     info]  Task complete: OX_Maintenance_Statistics_Task_ManageCampaigns
+May 17 17:16:23 +0200 OX-maintenance-664774c321c61 [     info]  Maintenance Statistics Engine Completed (Started at 2024-05-17 15:16:20 UTC)
+May 17 17:16:23 +0200 OX-maintenance-664774c321c61 [     info]  Running Maintenance Priority Engine
+May 17 17:16:23 +0200 OX-maintenance-664774c321c61 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [    error]        - Ad ID 2 has no linked zones, will skip...
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Inserted 1 rows in the table tmp_ad_required_impression
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-17 15:00:00 to 2024-05-17 15:59:59
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Inserted 3 rows in the table tmp_ad_zone_impression
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-17 15:00:00 to 2024-05-17 15:59:59
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]    - Looping over each zone linked to 1 ads
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]    - Finished querying impressions for 1 ad-zones combinations
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Inserted 3 rows in the table rv_data_summary_ad_zone_assoc
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  - Selecting All Managers
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  - Selecting Managers with ECPM priority campaigns running
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Maintenance Priority Engine Completed (Started at 2024-05-17 15:16:20 UTC)
+May 17 17:16:24 +0200 OX-maintenance-664774c321c61 [     info]  Maintenance Engine Completed (Started at 2024-05-17 15:16:20 UTC, taking 00:00:04)
+May 17 17:16:24 +0200 OX-664774c321c61 [     info]  Automatic Maintenance Task Completed
+ 
+May 17 17:26:42 +0200 OX-maintenance-664777327b7f3 [     info]  Running Maintenance Priority Engine
+May 17 17:26:42 +0200 OX-maintenance-664777327b7f3 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [    error]        - Ad ID 2 has no linked zones, will skip...
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  Inserted 1 rows in the table tmp_ad_required_impression
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsLifetime
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_GetRequiredAdImpressionsDaily
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-17 16:00:00 to 2024-05-17 16:59:59
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  Inserted 3 rows in the table tmp_ad_zone_impression
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_AllocateZoneImpressions
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]    - Selecting Zones forecasts for all managers for OI from 2024-05-17 16:00:00 to 2024-05-17 16:59:59
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]    - Looping over each zone linked to 1 ads
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]    - Finished querying impressions for 1 ad-zones combinations
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  Inserted 3 rows in the table rv_data_summary_ad_zone_assoc
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_PriorityCompensation
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  - Selecting All Managers
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]    - Selecting active campaigns with priority = '9' for manager 1
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]    - Selecting active campaigns with priority = '8' for manager 1
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]    - Selecting active campaigns with priority = '7' for manager 1
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]    - Selecting active campaigns with priority = '6' for manager 1
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforContract
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  Task begin: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  - Selecting Managers with ECPM priority campaigns running
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  Task complete: OA_Maintenance_Priority_AdServer_Task_ECPMforRemnant
+May 17 17:26:43 +0200 OX-maintenance-664777327b7f3 [     info]  Maintenance Priority Engine Completed (Started at 2024-05-17 17:26:42 WAT)
